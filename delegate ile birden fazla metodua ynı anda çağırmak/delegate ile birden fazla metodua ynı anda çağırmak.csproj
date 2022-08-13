@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>delegate_ile_birden_fazla_metodua_ynı_anda_çağırmak</RootNamespace>
+  </PropertyGroup>
+
+</Project>
